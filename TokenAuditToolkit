@@ -1,0 +1,29 @@
+# TokenAuditToolkit
+
+## Overview
+
+TokenAuditToolkit is a comprehensive toolkit for auditing smart contracts and tokenomics of blockchain projects. This repository provides tools, scripts, and guidelines to facilitate thorough audits and assessments of token contracts and their associated economic models.
+
+## Features
+
+- **Smart Contract Auditing**: Tools and scripts for analyzing smart contract code to identify vulnerabilities and security risks.
+- **Tokenomics Analysis**: Utilities to evaluate token distribution, inflation mechanisms, governance structures, and economic models.
+- **Security Best Practices**: Guidelines and checklists for implementing security best practices in smart contract development.
+- **Automated Testing**: Scripts for automated testing of smart contracts to ensure functionality and security compliance.
+- **Documentation Templates**: Templates for creating audit reports and documentation to communicate findings effectively.
+- **Community Contributions**: Frameworks and standards for community-driven auditing and peer reviews.
+
+## Getting Started
+
+### Prerequisites
+
+- Solidity (for smart contract auditing)
+- Python (version 3.6 or higher)
+- Truffle Suite (optional, for testing)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/TokenAuditToolkit.git
+   cd TokenAuditToolkit
